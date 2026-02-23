@@ -1,4 +1,4 @@
-## 🧩 系統整體架構圖（題目一 + 題目二）
+## 🧩 系統整體架構圖
 
 <pre class="overflow-visible!" data-start="3869" data-end="4561"><div class="contain-inline-size rounded-2xl corner-superellipse/1.1 relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre!"><span><span>【外部資料源】
 衛福部國民健康署 HPA 保健闢謠文章網站
